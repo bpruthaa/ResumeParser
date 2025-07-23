@@ -32,5 +32,26 @@ An AI-powered, feature-rich resume parsing and shortlisting system built with **
 
 ---
 
-## 📦 Directory Structure
+## 💡 How It Works
+
+1. Upload 1–10 PDF resumes
+2. Paste the job description (JD) in the sidebar
+3. Set your shortlisting threshold (e.g. 60%)
+4. View parsed data, visual insights, and download results
+
+---
+
+## 📥 Installation
+
+```bash
+# Clone the repo
+git clone https://github.com/yourusername/resume-shortlisting-app.git
+cd resume-shortlisting-app
+
+# Create virtual environment (optional but recommended)
+python -m venv venv
+source venv/bin/activate  # on Windows: venv\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
 
