@@ -1,0 +1,7 @@
+streamlit
+pandas
+openpyxl
+pymupdf
+scikit-learn
+sentence-transformers
+altair
